@@ -1,0 +1,232 @@
+*{
+	margin: 0;
+}
+.template{
+	widows: 1920px;
+	margin:0 auto;
+	font-family: arial;
+	font-size: 14px; 
+}
+.clear{
+	overflow: hidden;
+}
+a{
+	text-decoration: none;
+	color: #fff;
+}
+h1,h2,h3,h4,h5,h6{
+	font-weight: normal;
+}
+/*---------------Head section----------------*/
+.head-section{
+	background: #ffffff;
+}
+#text1{
+	text-align: center;
+	color: #34b091;
+}
+
+/*----------------start menu section-----------*/
+
+.menu-section{
+	height: 50px;
+	background: #34b091;
+	box-shadow: 2px 3px 2px #000;
+}
+.menu-section ul > li{
+	
+	list-style: none;
+	float: left;
+}
+.menu-section ul > li > a{
+	width: 100px;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	display: block;
+}
+/*...............Start bannar section............*/
+
+.banner-section{
+	width: 1920px;
+	height: 344px;
+	position: relative;
+}
+#bannar{
+	width: 1366px;
+	
+}
+.text2{
+	font-weight: bold;
+	text-align: center;	
+	color: #fff;
+}
+.bannar-left {
+    position: absolute;
+    margin-bottom: 38px;
+    margin-top: -216px;
+    margin-left: 500px;
+}
+.bannar-link{
+	margin-left: 90px;
+	width: 100px;
+	height: 40px;
+	display: block;
+	text-align: center;
+	line-height: 40px;
+	background: #34b091;
+	border-radius: 100px;
+}
+
+
+/*-------------------Start service section------------*/
+.service-section{
+	width: 1920px;
+	height: 1310px;
+	background: #e6e6e6;
+}
+.service-section-one{
+	margin-bottom: 40px;
+	width: 1242px;
+	height: 467px;
+}
+
+.s1{
+	margin-top: 30px;
+	margin-left: 140px;
+	margin-right: 20px;
+	width: 250px;
+	height: 400px;
+	float: left;
+	background: #fff;
+}
+.s2{
+	margin-top: 30px;
+	margin-right: 20px;
+	width: 250px;
+	height: 400px;
+	float: left;
+	background: #fff;
+}
+.s3{
+	margin-top: 30px;
+	margin-right: 20px;
+	width: 250px;
+	height: 400px;
+	float: left;
+	background: #fff;
+}
+.s4{
+	margin-top: 30px;
+	margin-right: 20px;
+	width: 250px;
+	height: 400px;
+
+	background: #fff;
+}
+.service-link{
+	margin-top: 15px;
+	margin-left: 15px;
+	width: 100px;
+	height: 40px;
+	display: block;
+	text-align: center;
+	line-height: 40px;
+	background: #34b091;
+	border-radius: 100px;
+}
+
+/*--------------- start service section part two--------*/
+.service-section-two{
+	border-top: 1px solid #454855;
+	margin-top: 60px;
+	margin-left: 140px;
+	background: ;
+	margin-bottom: 40px;
+	width: 1060px;
+	height: 350px;
+}
+.sub-s-1{
+	float: left;
+	width: 520px;
+	height: 380px;
+	margin-right: 20px;
+	background: ;
+}
+.sub-2-1{
+	width: 250px;
+	height: 380px;
+	background: ;
+	float: left;
+	margin-right: 20px;
+}
+.sub-2-2{
+	width: 250px;
+	height: 380px;
+	background: ;
+}
+.sub-s-2{
+	width: 520px;
+	height: 380px;
+	background: ;
+}
+
+/*--------------- start service section part three--------*/
+.service-section-three{
+	border-top: 1px solid #454855;
+	margin-top: 60px;
+	margin-left: 140px;
+	
+	margin-bottom: 40px;
+	width: 1060px;
+	height: 380px;
+}
+.sub-3-1{
+	margin-top: 25px;
+	margin-right: 20px;
+}
+.sub-3-2{
+
+	width: 250px;
+	height: 230px;
+}
+/*--------------- start footer section--------*/
+.footer-top{
+	width:1920px ;
+	height:226px ;
+	background: #3b3e4a;
+}
+.footer-bottom{
+	width:1920px ;
+	height:74px ;
+	background: #454855;
+}
+.row1{
+	margin-top: 50px;
+}
+.row2{
+	margin-top: 30px;
+}
+.foot{
+	width: 1060px;
+	margin-left: 140px;
+	background: ;
+}
+.form-control{
+	width: 50%;
+	margin-bottom: 15px;
+	background-color:#454855; 
+	border-top-right-radius: 50%;
+}
+.input-group-addon{
+	background: #34b091;
+}
+.input-group{
+	margin-bottom: 10px;
+}
+input[tepe="text"]{
+	background: yellow;
+}
+.a{
+	background: #f0f0f0;
+}
